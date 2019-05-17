@@ -11,12 +11,12 @@
 
 - [x] Explain the details of a Higher Order Component?
 
-    A Higher Order Component is a function that accepts React components as parameters. It retursn a new component and can add data or features onto an existing component. 
+    A Higher Order Component is a function that accepts React components as parameters. It returns a new component and can add data or features onto an existing component. 
 
 - [x] What are three different ways to style components in React? Explain some of the benefits of each.
 
     The three ways to style components in React are through: CSS, SCSS, or just Styled Components.
-    
+
     (1) CSS allows you to create files for each component or import the file over. It's the most basic. 
     (2) SCSS is a preprocessor that works with Reacts functionality to use more of CSS's ability. Like it can also use nesting, variables, mixins, and selectors among other things. This makes it a better and easier alternative to standard CSS. 
     (3) Styled components are made from referencing the library and are existing html elements.
